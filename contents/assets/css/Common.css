@@ -1,0 +1,491 @@
+/*Created with Adobe RoboHelp 2017.*/
+SPAN.expandtext {
+	font-style: italic;
+	font-weight: normal;
+	color: #ff0000;
+}
+a {
+	display: inline;
+	color: #800080;
+	text-decoration: underline;
+}
+A.glossterm {
+	color: #800000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+SPAN.glosstext {
+	font-style: italic;
+	font-weight: normal;
+	color: #0000ff;
+}
+a.dropspot {
+	color: #ff00ff;
+	display: inline;
+}
+a.expandspot {
+	color: #808000;
+	display: inline;
+}
+img.Style1 {
+	float: left;
+	margin-left: 8px;
+	border-left-style: Double;
+	border-left-color: #800080;
+	border-right-style: Double;
+	border-right-color: #800080;
+	border-top-style: Double;
+	border-top-color: #800080;
+	border-bottom-style: Double;
+	border-bottom-color: #800080;
+	border-left-width: 3px;
+	border-right-width: 3px;
+	border-top-width: 3px;
+	border-bottom-width: 3px;
+	background-color: #ff80ff;
+}
+li.Style2 {
+	text-align: center;
+	border-left-style: Double;
+	border-left-width: 5px;
+	border-left-color: #800080;
+	margin-top: 19px;
+	font-family: "Times New Roman CYR";
+	font-size: 14pt;
+	color: #008000;
+}
+p {
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	font-family: Mangal;
+	font-size: 10pt;
+	color: #800000;
+}
+h1 {
+	font-weight: bold;
+	font-size: 22pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	color: #008000;
+}
+rh-seq.Page {
+	x-font: Webdings;
+	x-count: 1;
+	x-1: ;
+}
+table.Style3 {
+	x-col-pat-count: 2;
+	x-1st-row: 1;
+	x-border-spacing: 0px;
+}
+li.Style4 {
+	list-style: url(../images/Red_Circle_E.png);
+}
+ol.FolderPageBullet {
+	padding: 0;
+	counter-reset: FolderPageBulletitem1;
+	list-style: [object Object];
+}
+ol.FolderPageBullet li:before {
+	padding-right: 0.5rem;
+}
+ol.FolderPageBullet ol {
+	counter-reset: FolderPageBulletitem;
+	list-style: none;
+}
+ol.FolderPageBullet ol>li:before {
+	counter-increment: FolderPageBulletitem;
+	content: "";
+}
+ol.FolderPageBullet>li:before {
+	counter-increment: FolderPageBulletitem1;
+}
+ol.FolderPageBullet>li>ol {
+	counter-reset: FolderPageBulletitem2;
+	list-style: decimal;
+}
+ol.FolderPageBullet>li>ol>li:before {
+	counter-increment: FolderPageBulletitem2;
+}
+ol.FolderPageBullet>li>ol>li>ol {
+	counter-reset: FolderPageBulletitem3;
+	list-style: disc;
+}
+ol.FolderPageBullet>li>ol>li>ol>li:before {
+	counter-increment: FolderPageBulletitem3;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol {
+	counter-reset: FolderPageBulletitem4;
+	list-style: square;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li:before {
+	counter-increment: FolderPageBulletitem4;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: FolderPageBulletitem5;
+	list-style: [object Object];
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: FolderPageBulletitem5;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: FolderPageBulletitem6;
+	list-style: decimal;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: FolderPageBulletitem6;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: FolderPageBulletitem7;
+	list-style: disc;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: FolderPageBulletitem7;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: FolderPageBulletitem8;
+	list-style: square;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: FolderPageBulletitem8;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: FolderPageBulletitem9;
+	list-style: [object Object];
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: FolderPageBulletitem9;
+}
+ol.ChaptersAndArticles {
+	padding: 0;
+	counter-reset: ChaptersAndArticlesitem1;
+	list-style: none;
+}
+ol.ChaptersAndArticles li:before {
+	padding-right: 0.5rem;
+}
+ol.ChaptersAndArticles ol {
+	counter-reset: ChaptersAndArticlesitem;
+	list-style: none;
+}
+ol.ChaptersAndArticles ol>li:before {
+	counter-increment: ChaptersAndArticlesitem;
+	content: "";
+}
+ol.ChaptersAndArticles>li:before {
+	counter-increment: ChaptersAndArticlesitem1;
+	content: "Article "counter(ChaptersAndArticlesitem1, decimal)".";
+}
+ol.ChaptersAndArticles>li>ol {
+	counter-reset: ChaptersAndArticlesitem2;
+	list-style: none;
+}
+ol.ChaptersAndArticles>li>ol>li:before {
+	counter-increment: ChaptersAndArticlesitem2;
+	content: "Section "counter(ChaptersAndArticlesitem2, decimal)".";
+}
+ol.ChaptersAndArticles>li>ol>li>ol {
+	counter-reset: ChaptersAndArticlesitem3;
+	list-style: none;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li:before {
+	counter-increment: ChaptersAndArticlesitem3;
+	content: "Section "counter(ChaptersAndArticlesitem2, decimal)"."counter(ChaptersAndArticlesitem3, lower-alpha)".";
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol {
+	counter-reset: ChaptersAndArticlesitem4;
+	list-style: none;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li:before {
+	counter-increment: ChaptersAndArticlesitem4;
+	content: "Paragraph "counter(ChaptersAndArticlesitem4, upper-roman)".";
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: ChaptersAndArticlesitem5;
+	list-style: disc;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: ChaptersAndArticlesitem5;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: ChaptersAndArticlesitem6;
+	list-style: none;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: ChaptersAndArticlesitem6;
+	content: counter(ChaptersAndArticlesitem6, lower-alpha)")";
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: ChaptersAndArticlesitem7;
+	list-style: none;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: ChaptersAndArticlesitem7;
+	content: counter(ChaptersAndArticlesitem6, lower-alpha)"."counter(ChaptersAndArticlesitem7, decimal)".";
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: ChaptersAndArticlesitem8;
+	list-style: none;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: ChaptersAndArticlesitem8;
+	content: counter(ChaptersAndArticlesitem8, decimal)":";
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: ChaptersAndArticlesitem9;
+	list-style: none;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: ChaptersAndArticlesitem9;
+	content: counter(ChaptersAndArticlesitem9, decimal)":";
+}
+ol.newlist {
+	padding: 0;
+	counter-reset: newlistitem1;
+	list-style: none;
+}
+ol.newlist li:before {
+	padding-right: 0.5rem;
+}
+ol.newlist ol {
+	counter-reset: newlistitem;
+	list-style: none;
+}
+ol.newlist ol>li:before {
+	counter-increment: newlistitem;
+	content: "";
+}
+ol.newlist>li:before {
+	counter-increment: newlistitem1;
+	content: "Article "counter(newlistitem1, decimal)".";
+}
+ol.newlist>li>ol {
+	counter-reset: newlistitem2;
+	list-style: none;
+}
+ol.newlist>li>ol>li:before {
+	counter-increment: newlistitem2;
+	content: "Section "counter(newlistitem2, decimal)".";
+}
+ol.newlist>li>ol>li>ol {
+	counter-reset: newlistitem3;
+	list-style: none;
+}
+ol.newlist>li>ol>li>ol>li:before {
+	counter-increment: newlistitem3;
+	content: "Section "counter(newlistitem2, decimal)"."counter(newlistitem3, lower-alpha)".";
+}
+ol.newlist>li>ol>li>ol>li>ol {
+	counter-reset: newlistitem4;
+	list-style: none;
+}
+ol.newlist>li>ol>li>ol>li>ol>li:before {
+	counter-increment: newlistitem4;
+	content: "Paragraph "counter(newlistitem4, upper-roman)".";
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: newlistitem5;
+	list-style: disc;
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: newlistitem5;
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: newlistitem6;
+	list-style: none;
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: newlistitem6;
+	content: counter(newlistitem6, lower-alpha)")";
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: newlistitem7;
+	list-style: none;
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: newlistitem7;
+	content: counter(newlistitem6, lower-alpha)"."counter(newlistitem7, decimal)".";
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: newlistitem8;
+	list-style: none;
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: newlistitem8;
+	content: counter(newlistitem8, decimal)":";
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: newlistitem9;
+	list-style: none;
+}
+ol.newlist>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: newlistitem9;
+	content: counter(newlistitem9, decimal)":";
+}
+ol.a {
+	padding: 0;
+	counter-reset: aitem1;
+	list-style: [object Object];
+}
+ol.a li:before {
+	padding-right: 0.5rem;
+}
+ol.a ol {
+	counter-reset: aitem;
+	list-style: none;
+}
+ol.a ol>li:before {
+	counter-increment: aitem;
+	content: "";
+}
+ol.a>li:before {
+	counter-increment: aitem1;
+}
+ol.a>li>ol {
+	counter-reset: aitem2;
+	list-style: decimal;
+}
+ol.a>li>ol>li:before {
+	counter-increment: aitem2;
+}
+ol.a>li>ol>li>ol {
+	counter-reset: aitem3;
+	list-style: disc;
+}
+ol.a>li>ol>li>ol>li:before {
+	counter-increment: aitem3;
+}
+ol.a>li>ol>li>ol>li>ol {
+	counter-reset: aitem4;
+	list-style: square;
+}
+ol.a>li>ol>li>ol>li>ol>li:before {
+	counter-increment: aitem4;
+}
+ol.a>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: aitem5;
+	list-style: [object Object];
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: aitem5;
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: aitem6;
+	list-style: decimal;
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: aitem6;
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: aitem7;
+	list-style: disc;
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: aitem7;
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: aitem8;
+	list-style: square;
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: aitem8;
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: aitem9;
+	list-style: [object Object];
+}
+ol.a>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: aitem9;
+}
+ol.multiNumber {
+	padding: 0;
+	counter-reset: multiNumberitem1;
+	list-style: none;
+}
+ol.multiNumber li:before {
+	padding-right: 0.5rem;
+}
+ol.multiNumber ol {
+	counter-reset: multiNumberitem;
+	list-style: none;
+}
+ol.multiNumber ol>li:before {
+	counter-increment: multiNumberitem;
+	content: "";
+}
+ol.multiNumber>li:before {
+	counter-increment: multiNumberitem1;
+	content: counter(multiNumberitem1, decimal)".";
+}
+ol.multiNumber>li>ol {
+	counter-reset: multiNumberitem2;
+	list-style: none;
+}
+ol.multiNumber>li>ol>li:before {
+	counter-increment: multiNumberitem2;
+	content: counter(multiNumberitem1, decimal)"."counter(multiNumberitem2, decimal)".";
+}
+ol.multiNumber>li>ol>li>ol {
+	counter-reset: multiNumberitem3;
+	list-style: none;
+}
+ol.multiNumber>li>ol>li>ol>li:before {
+	counter-increment: multiNumberitem3;
+	content: counter(multiNumberitem1, decimal)"."counter(multiNumberitem2, decimal)"."counter(multiNumberitem3, decimal)".";
+}
+ol.multiNumber>li>ol>li>ol>li>ol {
+	counter-reset: multiNumberitem4;
+	list-style: none;
+}
+ol.multiNumber>li>ol>li>ol>li>ol>li:before {
+	counter-increment: multiNumberitem4;
+	content: counter(multiNumberitem4, upper-alpha)")";
+}
+ol.multiNumber>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: multiNumberitem5;
+	list-style: none;
+}
+ol.multiNumber>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: multiNumberitem5;
+	content: counter(multiNumberitem5, upper-roman)"}";
+}
+ol.multiNumber>li>ol>li>ol>li>ol>li>ol>li>ol {
+	counter-reset: multiNumberitem6;
+	list-style: none;
+}
+ol.multiNumber>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: multiNumberitem6;
+	content: "["counter(multiNumberitem6, lower-alpha)"]";
+}
+a.dropspot::before {
+	vertical-align: middle;
+	margin-right: 0.25rem;
+	content: url(../images/image4.gif);
+}
+a.dropspot.pressed::before {
+	vertical-align: middle;
+	margin-right: 0.25rem;
+	content: url(../images/red_circle_1.png);
+}
+a.expandspot::after {
+	vertical-align: middle;
+	margin-left: 0.25rem;
+	content: url(../images/Red_Circle_A.png);
+}
+a.expandspot.pressed::after {
+	vertical-align: middle;
+	margin-left: 0.25rem;
+	content: url(../images/Red_Circle_B.png);
+}
+table.Style3 td:nth-child(2n+2) {font-family: Tunga;font-size: 10pt;color: #008000;border-left-style: Solid;border-left-width: 1px;border-left-color: #0000ff;border-right-style: Solid;border-right-width: 1px;border-right-color: #0000ff;border-top-style: Solid;border-top-width: 1px;border-top-color: #0000ff;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #0000ff;
+}
+table.Style3 tr:first-child td {font-family: "Times New Roman";font-size: 12pt;background-color: #00ffff;border-top-style: Solid;border-top-width: 1px;border-top-color: #ff0000;
+}
+table.Style3 td {padding-left: 0px;padding-right: 0px;padding-top: 10px;padding-bottom: 0px;
+}

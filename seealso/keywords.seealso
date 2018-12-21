@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+<keywords>
+  
+<keyword>
+<name>adding See Also</name>
+<linkedFiles>
+<file>contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm</file>
+<file>contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm</file>
+<file>contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm</file></linkedFiles>
+<usedInFiles>
+<file>contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm</file>
+<file>contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm</file></usedInFiles></keyword>
+<keyword>
+<name>Outdoor dresses: jeans&lt;Brand_name&gt;</name>
+<linkedFiles>
+<file>contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm</file>
+<file>contents/Men_categories/Apparel/Jeans/Outdoor_Dresses_Jeans.htm</file></linkedFiles>
+<usedInFiles></usedInFiles></keyword>
+<keyword>
+<name>Outdoor dresses: jeans</name>
+<linkedFiles></linkedFiles>
+<usedInFiles>
+<file>contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm</file>
+<file>contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm</file></usedInFiles></keyword></keywords>

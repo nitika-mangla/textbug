@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/master project 1.toc</path>
+      <name>master project 1</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/master project 1.glo</path>
+      <name>master project 1</name>
+    </glossary>
+    <masterpage></masterpage>
+    <brs type="array"></brs>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/master project 1/Responsive_HTML</outputPath>
+  <starterPage>index.htm</starterPage>
+  <filter>
+    <name>Responsive HTML5</name>
+    <path>../filters/Responsive HTML5.filter</path>
+  </filter>
+  <search>
+    <context type="boolean">true</context>
+    <contextLimit>100</contextLimit>
+    <suggestion type="boolean">true</suggestion>
+    <fuzzy type="boolean">true</fuzzy>
+    <glossary type="boolean">true</glossary>
+  </search>
+  <sitemap>
+    <use type="boolean">true</use>
+    <changeFrequency>Monthly</changeFrequency>
+    <helpBaseURL></helpBaseURL>
+  </sitemap>
+  <skin>
+    <name>Azure_Blue</name>
+    <path>../skins/Azure_Blue/html5.skn</path>
+  </skin>
+  <name>Responsive HTML5</name>
+  <type>html5</type>
+  <title>master project 1</title>
+  <defaultTopic>
+    <name>First_Topic.htm</name>
+    <path>../../contents/First_Topic.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <createThumbNails type="boolean">false</createThumbNails>
+</preset>
